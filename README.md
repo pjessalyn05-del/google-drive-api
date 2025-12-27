@@ -54,4 +54,5 @@
 
 ## ⚠️ LIMITATIONS
 - Access token must be manually refreshed
+
 - No file preview (metadata only)
